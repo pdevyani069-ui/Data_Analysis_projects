@@ -1,14 +1,8 @@
 The HR Analytics Dashboard analyzes employee data to uncover insights related to attrition, performance, and workforce structure.
 It evaluates department-wise and role-based trends. Key indicators such as age, experience, and job satisfaction are analyzed, The dashboard
-helps identify attrition drivers. Insights support data-driven HR strategies. Interactive visualizations enhance analysis,
-The project demonstrates strong analytical and visualization skills. Suitable for HR and business analytics roles.
+helps identify attrition drivers. Insights support data-driven HR strategies. Interactive visualizations enhance analysis.
 
 
-It analyzes factors such as age, gender, and experience. Key metrics help identify high attrition areas. The project supports better 
-HR decision-making.
+The project focuses on transforming raw HR data into an interactive analytics dashboard. It tracks key HR KPIs such as employee count, attrition percentage, and average tenure. Department-wise and role-wise analysis helps identify workforce imbalances. Employee lifecycle trends such as hiring and exits are analyzed. Demographic insights support diversity and inclusion initiatives. Data accuracy is ensured through proper cleaning and structuring. Visualizations enable quick comparison and trend identification. The dashboard supports data-driven HR decisions.
 
 
-This project presents an interactive HR analytics dashboard built to analyze workforce data. It focuses on employee attrition, demographics,
-and departmental distribution. The dashboard identifies key trends affecting retention. Metrics such as age, gender, and experience are 
-visualized. The insights support strategic HR planning. Data is cleaned and structured for accuracy. Ideal for learning HR analytics and
-dashboard design.
