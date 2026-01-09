@@ -5,6 +5,5 @@ The dataset is cleaned and structured for analysis. Ideal for learning retail an
               The project identifies top-performing pizzas, categories, and sizes. Time-based analysis highlights daily and hourly sales
 trends. Customer ordering patterns are explored for business insights. The findings help optimize menu planning and inventory management. 
 Data cleaning and transformation ensure accuracy. The project demonstrates strong analytical and business insight skills.
-    The analysis identifies best-selling and least-selling pizzas. Sales patterns are studied across different days and time periods. Category   
-and size-wise performance is also analyzed. The project helps identify peak order hours.Insights support better inventory and 
-sales planning.
+        The analysis identifies best-selling and least-selling pizzas. Sales patterns are studied across different days and timeperiods. Category   and size-wise performance is also analyzed. The project helps identify peak order hours.Insights support better
+inventory and sales planning.
