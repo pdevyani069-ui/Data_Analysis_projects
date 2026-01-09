@@ -10,4 +10,4 @@ categories. Time-based analysis identifies peak order periods. Insights help imp
 
 This project involves analyzing Blinkit data to gain actionable business insights. It evaluates revenue, order volume, and customer
 demand trends. Product-wise and category-wise performance is analyzed. The dashboard helps identify peak demand hours and seasonal 
-trends. Insights assist in optimizing supply chain and inventory management
+trends. Insights assist in optimizing supply chain and inventory management.
